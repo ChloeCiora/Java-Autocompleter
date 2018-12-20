@@ -4,6 +4,7 @@ This program, when ran, gives suggestions for what a user is typing. Enter each 
 
 Here is an example run of the program:
 
+```
 $ java AutoComplete
 
 Enter your character.
@@ -30,5 +31,6 @@ Enter your character.
 !
 Average time: 268334 nanoseconds.
 Goodbye!
+```
 
 
